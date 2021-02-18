@@ -17,7 +17,7 @@ exports.config = {
   },
   directConnect: true,
   SELENIUM_PROMISE_MANAGER: false,
-  baseUrl: 'http://backbooksmilo.herokuapp.com:8080/',
+  baseUrl: 'https://frontbooksmilo.herokuapp.com:3000/',
   framework: 'jasmine',
   jasmineNodeOpts: {
     showColors: true,
